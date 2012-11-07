@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello Octopress"
-date: 2012-11-06 10:26
+date: 2012-09-19 16:26
 comments: true
 categories: 
 ---
