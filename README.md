@@ -1,22 +1,22 @@
 
-Site source for [Kjuly.me](http://kjuly.me).
+Site source for [blog.kjuly.com](http://blog.kjuly.com).
 
 ## USAGE
 
 ### Setup(alpha):
 
-    git clone -b source git@github.com:Kjuly/kjuly.github.com.git kjuly.me
+    git clone -b source git@github.com:Kjuly/blog.kjuly.com.git kjuly.me
     # If not use multiple account to manage this repo, just use:
     # '# --- xxx' are settings for multiple account
     # ---git clone -b source git@github-another:anotherAccount/anotherAccount.github.com.git 0x6x # git@github.com -> git@github-another
 
-    cd kjuly.me     # If you use RVM, You'll be asked if you trust the .rvmrc file (say yes)
-    ruby --version  # Should report Ruby 1.9.2
+    cd blog.kjuly.com # If you use RVM, You'll be asked if you trust the .rvmrc file (say yes)
+    ruby --version    # Should report Ruby 1.9.2
     gem install bundler
-    rbenv rehash    # If you use rbenv, rehash to be able to run the bundle command
+    rbenv rehash      # If you use rbenv, rehash to be able to run the bundle command
     bundle install
-    rake install    # Install the default Octopress theme
-                    # `rake install[myoctheme]` will install `myoctheme` theme instead
+    rake install      # Install the default Octopress theme
+                      # `rake install[myoctheme]` will install `myoctheme` theme instead
 
     # ---git config user.name "anotherUserName"
     # ---git config user.email "anotherAccount@example.com"

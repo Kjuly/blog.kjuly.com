@@ -1,15 +1,67 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://blog.kjuly.com/hello-octopress</loc>
-        <lastmod>2012-11-06T16:58:34+08:00</lastmod>
+        <loc>http://blog.kjuly.com/graduated-from-zjut</loc>
+        <lastmod>2012-11-18T22:15:14+08:00</lastmod>
     </url>
     <url>
-        <loc>http://blog.kjuly.com/blog/archives/</loc>
-        <lastmod>2012-11-06T16:58:34+08:00</lastmod>
+        <loc>http://blog.kjuly.com/decided-to-go-to-yunnan</loc>
+        <lastmod>2012-11-18T22:18:17+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.kjuly.com/arrived-kunming</loc>
+        <lastmod>2012-11-18T22:18:35+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.kjuly.com/two-wheeled-rainbow</loc>
+        <lastmod>2012-11-18T22:18:41+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.kjuly.com/sunshine-always-after-rain</loc>
+        <lastmod>2012-11-18T22:18:45+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.kjuly.com/back-to-shaxi-tobe-a-volunteer</loc>
+        <lastmod>2012-11-18T22:18:51+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.kjuly.com/climb-maping-col</loc>
+        <lastmod>2012-11-18T22:18:58+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.kjuly.com/mid-autumn-festival</loc>
+        <lastmod>2012-11-18T22:19:04+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.kjuly.com/to-lisu</loc>
+        <lastmod>2012-11-18T22:19:08+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.kjuly.com/two-wheeled-rainbow</loc>
+        <lastmod>2012-11-18T22:19:16+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.kjuly.com/the-beautiful-starlit-sky</loc>
+        <lastmod>2012-11-18T22:19:21+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.kjuly.com/farewell-bro-ding</loc>
+        <lastmod>2012-11-18T22:19:31+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.kjuly.com/it-is-two-months-in-shaxi</loc>
+        <lastmod>2012-11-18T22:19:39+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.kjuly.com/about/</loc>
+        <lastmod>2012-11-13T23:36:10+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.kjuly.com/archive/</loc>
+        <lastmod>2012-11-18T22:19:39+08:00</lastmod>
     </url>
     <url>
         <loc>http://blog.kjuly.com/</loc>
-        <lastmod>2012-11-06T16:58:34+08:00</lastmod>
+        <lastmod>2012-11-18T22:19:39+08:00</lastmod>
     </url>
 </urlset>

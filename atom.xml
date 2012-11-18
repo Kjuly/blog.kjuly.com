@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Blog]]></title>
+  <title><![CDATA[BLOG]]></title>
   <link href="http://blog.kjuly.com/atom.xml" rel="self"/>
   <link href="http://blog.kjuly.com/"/>
-  <updated>2012-11-06T17:16:21+08:00</updated>
+  <updated>2012-11-18T22:24:55+08:00</updated>
   <id>http://blog.kjuly.com/</id>
   <author>
     <name><![CDATA[Kjuly]]></name>
@@ -14,11 +14,174 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Hello Octopress]]></title>
-    <link href="http://blog.kjuly.com/hello-octopress"/>
-    <updated>2012-11-06T10:26:00+08:00</updated>
-    <id>http://blog.kjuly.com/hello-octopress</id>
-    <content type="html"><![CDATA[<p>Hello Octopress!</p>
+    <title type="html"><![CDATA[来到沙溪已有两个月了]]></title>
+    <link href="http://blog.kjuly.com/it-is-two-months-in-shaxi"/>
+    <updated>2012-11-17T21:30:00+08:00</updated>
+    <id>http://blog.kjuly.com/it-is-two-months-in-shaxi</id>
+    <content type="html"><![CDATA[<p>在沙溪已经待了两个月了，路叔十一月底要回北京过年。我就留下来替他，等快过年了把爸妈接过来一起过。既省了路叔操没人看院子心，又满足了我想多在外待一阵子的心，而且爸妈也没来过云南，顺便也可以过来玩会。</p>
+
+<p>我妈还说，想把外婆也一起带过来，哈哈，那样就热闹了！</p>
+
+<p>趁路叔还在这边，过几天想去云龙玩，看吧。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[饯行]]></title>
+    <link href="http://blog.kjuly.com/farewell-bro-ding"/>
+    <updated>2012-10-17T23:17:00+08:00</updated>
+    <id>http://blog.kjuly.com/farewell-bro-ding</id>
+    <content type="html"><![CDATA[<p>一个月前，丁大哥与我在大理古城的云来小馆相识，后来又先后来到沙溪做起了义工。明天他便要离开沙溪，去丽江束河。</p>
+
+<p>也恰巧今天，木兮同兔子来沙溪玩，通行的还有一对长春的夫妻——周哥和李姐。</p>
+
+<p>一起吃饭喝酒。由于白天刚同丁大哥徒步走完了石宝山，腿脚酸疼，他说最好一起喝点白酒，明天准好。其实不管怎样，就算不是脚酸，我也准会陪着喝点，毕竟这一别又不知何时才能再会。</p>
+
+<p>第一口下肚，火烧般，使劲喝汤。之后便能够慢慢适应了。第一次。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[星空]]></title>
+    <link href="http://blog.kjuly.com/the-beautiful-starlit-sky"/>
+    <updated>2012-10-15T03:27:00+08:00</updated>
+    <id>http://blog.kjuly.com/the-beautiful-starlit-sky</id>
+    <content type="html"><![CDATA[<p>星空，美得简直要流泪。被拉去夜间“盗”文物，意外的收获。</p>
+
+<p>后记：后来发现，晚上只要在没灯的地方，抬头总能看到漂亮的星空，银河也是清晰可见。但还是没有夜晚两三点时候那样的透彻。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[沙溪又见双轮彩虹]]></title>
+    <link href="http://blog.kjuly.com/two-wheeled-rainbow"/>
+    <updated>2012-10-10T18:01:00+08:00</updated>
+    <id>http://blog.kjuly.com/two-wheeled-rainbow</id>
+    <content type="html"><![CDATA[<p>下午来了场雨，之后艳阳高照，门外丹丹喊着：“小狮，快来看，彩虹！”</p>
+
+<p>双道彩虹，真美，感觉就像挂在院子上方，十来分钟的时间过去，越来越清晰。真的比大理古城看到的还美。当时真的好想把这一幕分享给所有人！</p>
+
+<p>用手机捕捉了几张，但终究无法真实地显现这个场景。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[傈僳族]]></title>
+    <link href="http://blog.kjuly.com/to-lisu"/>
+    <updated>2012-10-07T20:31:00+08:00</updated>
+    <id>http://blog.kjuly.com/to-lisu</id>
+    <content type="html"><![CDATA[<p>沙坪村后山的傈僳族包括族长在内只有九户，比马坪关的四十多户还夸张。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[客寄他乡过中秋]]></title>
+    <link href="http://blog.kjuly.com/mid-autumn-festival"/>
+    <updated>2012-09-28T21:47:00+08:00</updated>
+    <id>http://blog.kjuly.com/mid-autumn-festival</id>
+    <content type="html"><![CDATA[<p>收到古城的朋友发来的短信，问我回去一起过中秋不。特意外特感动！客寄他乡，除了爸妈还能被人惦记，是件非常高兴的事！谁都不希望哪天自己蒸发了也没人会注意。</p>
+
+<p>另外，没记错的话，今天舒绍明老师的青韵轩开张。可惜没在杭州。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[马坪关-盐井]]></title>
+    <link href="http://blog.kjuly.com/climb-maping-col"/>
+    <updated>2012-09-27T23:17:00+08:00</updated>
+    <id>http://blog.kjuly.com/climb-maping-col</id>
+    <content type="html"><![CDATA[<p>早八点从鳌凤一路徒步到马坪关十一点多，不想原路返回选择去了弥沙，后改道去盐井，穿过诺大的次森林后遇到雷阵雨！下山的路分明是水流冲刷成的小沟！整一落汤鸡！刺激得要命！差点要了命＝ ＝狼狈地借当地老乡地烤火避雨，腊腿松茸炒南瓜，吃得特香！八点半包车到沙溪已是十一点半！我们这是走了有多远！</p>
+
+<p>马坪关到盐井的路上，真的是人迹罕至，沿途便能采到巴掌大的菌子！路上还琢磨着要是能采到灵芝就好了，而之后又巧看到一个偌大的黑色菌子，以为是灵芝，高兴了半天，又是照片又是鼓掌的。</p>
+
+<p>回到沙溪，脚上原本就已经开裂的鞋子经过这么一折腾，已经完成了它最后的使命。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[回到沙溪开始义工生活]]></title>
+    <link href="http://blog.kjuly.com/back-to-shaxi-tobe-a-volunteer"/>
+    <updated>2012-09-19T23:23:00+08:00</updated>
+    <id>http://blog.kjuly.com/back-to-shaxi-tobe-a-volunteer</id>
+    <content type="html"><![CDATA[<p>没想到真会回到沙溪做起义工，距上次来沙溪似乎已半个多月了吧。离开古城呆呆客栈，一个月的相处，最最舍不得的还是兔子。感谢大师兄和兔子从洱海门到苍山门的一路相送。</p>
+
+<p>路老先生和杨姐，还有小廖和丹丹，是我接下来这个月的亲人了。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[雨过天晴便是彩虹]]></title>
+    <link href="http://blog.kjuly.com/sunshine-always-after-rain"/>
+    <updated>2012-09-11T22:13:00+08:00</updated>
+    <id>http://blog.kjuly.com/sunshine-always-after-rain</id>
+    <content type="html"><![CDATA[<p>待了将近一个月了，这里的生活节奏那是相当得慢，似乎每雨过天晴便是彩虹。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[第一次看到双轮彩虹]]></title>
+    <link href="http://blog.kjuly.com/two-wheeled-rainbow"/>
+    <updated>2012-08-31T18:17:00+08:00</updated>
+    <id>http://blog.kjuly.com/two-wheeled-rainbow</id>
+    <content type="html"><![CDATA[<p>双轮彩虹，第一次看到！</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[抵达昆明]]></title>
+    <link href="http://blog.kjuly.com/arrived-kunming"/>
+    <updated>2012-08-17T21:44:00+08:00</updated>
+    <id>http://blog.kjuly.com/arrived-kunming</id>
+    <content type="html"><![CDATA[<p>37个小时的火车硬座，也不过如此。</p>
+
+<p>与同行认识的人告别后，我在另一当地女孩的指引下，买到了去大理的火车票。</p>
+
+<p>在来云南之前，一直想找个驴友同行，路上好有个照应。</p>
+
+<p>原本一号的票，找到人后就换成了二号的，没想却被放了鸽子。之后想着一个人上路就认了，可又没想到杭州刮起了台风，接连几天，还不是一般的大。而后的几天，天气也凉快了许多，于是退了票，就又给自己多留了几天慢慢找。</p>
+
+<p>最后，还是一个人上路。一路下来，比想象的好。</p>
+
+<p>昆明到大理的火车，是硬卧改的硬座——白天硬座，晚上硬卧。而它的速度奇慢——云南十八怪之一。</p>
+
+<p>后记：同行的其中一位白族女孩和一位贵州小伙成了我日后在大理一起玩的伙伴。但没多久后，女孩回昆明工作了，小伙离开大理继续他的旅程了，我还一个人留在大理古城，却在呆呆客栈结交了大师兄、木兮、东东，当然还有那只名叫兔子的黑色小贵宾。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[决定去云南]]></title>
+    <link href="http://blog.kjuly.com/decided-to-go-to-yunnan"/>
+    <updated>2012-07-20T22:21:00+08:00</updated>
+    <id>http://blog.kjuly.com/decided-to-go-to-yunnan</id>
+    <content type="html"><![CDATA[<p>没有急着去找工作，而是选择暂时寄宿在同学这做一段时间的项目。</p>
+
+<p>同学留校做辅导员，暑期得指导新生军训，于是分配到了一个过渡寝室。这是一个六人寝，六楼，为新生准备的，而只住他一人。我将用得到的行李搬到了这，剩下的留在较近的另一同学那——他是保送本校的硕士生，同样有一个过渡寝室，只是不是一个人。就这样，我准备好在这过到八月了。当做我的一个临时工作室。</p>
+
+<p>杭城的七月真的很热，以前寝室有空调，再热只要在空调下便成。可这一个顶楼的新生寝，太阳直晒，也没有空调，白天热得几乎整个人都要蒸发了。</p>
+
+<p>军训期间，同学早出晚归，我也几乎同步了生物钟，十点多躺下，吹着热风入眠，四五点便自然醒——热醒的。然后穿着背心拖鞋开始自己的工作。下午两点左右，是热得最要命的时候，只能不停的洗脸洗手冲手臂洒水。手背却也因此长出密密麻麻许多小水泡。</p>
+
+<p>我决定去云南了，就八月初。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[再见，我的大学]]></title>
+    <link href="http://blog.kjuly.com/graduated-from-zjut"/>
+    <updated>2012-06-13T23:47:00+08:00</updated>
+    <id>http://blog.kjuly.com/graduated-from-zjut</id>
+    <content type="html"><![CDATA[<p>一号项目演示，二号答辩，三号毕业生晚会，四号大组答辩。</p>
+
+<p>而后是班级聚餐，完了在校门口与几个同学抱在一起互相祝福，直到忍不住痛哭流涕。喝多了，却也正好，不然没有合适的借口。</p>
+
+<p>十号毕业典礼，先后拿到了毕业双证和省优证书，算是对自己的一个交代。晚上助班聚餐，姚老师为我们送行，都忙着找房子，只来了十人。</p>
+
+<p>十一号，毕业生离校时间。09级的孩子们晚上约上我一起吃饭，平平淡淡的一个多小时，这是他们对我的送行方式，也是我希望的。回去路上，我说，来年我回来送你们。好的，一定得来。</p>
+
+<p>回到寝室，总感觉少了点什么。有点凄凉。</p>
+
+<p>大学四年就这么结束了，画上了一个算是圆满的句号，可说实话很多事没做，我最终还是带着遗憾离开的。
+再见，我的大学；你好，我的新生活。</p>
 ]]></content>
   </entry>
   
